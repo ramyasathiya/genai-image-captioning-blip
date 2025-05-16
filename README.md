@@ -98,7 +98,14 @@ demo.close()
 Example Input and Output
 
 Input:
+
+
 ![image](https://github.com/user-attachments/assets/c87f74f5-6922-495d-aebe-56cc20413c47)
+
+
+
+
+
 Output:
 there is a dog wearing a red Christmas hat and scarf
 
